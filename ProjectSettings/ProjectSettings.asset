@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: MR BET
+  productName: Mr Bet
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
@@ -64,7 +64,7 @@ PlayerSettings:
   use32BitDisplayBuffer: 1
   preserveFramebufferAlpha: 0
   disableDepthAndStencilBuffers: 0
-  androidStartInFullscreen: 1
+  androidStartInFullscreen: 0
   androidRenderOutsideSafeArea: 1
   androidUseSwappy: 1
   androidBlitType: 0
@@ -272,7 +272,7 @@ PlayerSettings:
   - m_BuildTarget: 
     m_Icons:
     - serializedVersion: 2
-      m_Icon: {fileID: 2800000, guid: 1ccc31a7da0f7864193c6ced68af7dcf, type: 3}
+      m_Icon: {fileID: 2800000, guid: 0198822bfcbb75d46b07a902b8ccc3e7, type: 3}
       m_Width: 128
       m_Height: 128
       m_Kind: 0
@@ -760,10 +760,10 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 6
   activeInputHandler: 0
-  cloudProjectId: 7a6ed0b3-d5f0-4a13-b5ab-b5567e0a79ec
+  cloudProjectId: f2863c6e-8e2e-4d7a-9d2e-e9a9ae6cd988
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Vulkan Vegas
+  projectName: Mr Bet (1)
   organizationId: alextraffic
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
