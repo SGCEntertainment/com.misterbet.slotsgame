@@ -7,11 +7,11 @@ env:
   UNITY_EMAIL: "unitydatastorage@gmail.com"
   UNITY_PASSWORD: "qwerty12345Q"
   
-  APP_NAME: "com.vulkan.vegasapps"
+  APP_NAME: "com.misterbet.slotsgame"
   
-  AndroidKeystorePass: "mnfgiouhioujinud"
-  AndroidKeyaliasPass: "mnfgiouhioujinud"
-  AndroidKeyaliasName: "deltamirod"
+  AndroidKeystorePass: "iihwiuhdsdsd"
+  AndroidKeyaliasPass: "iihwiuhdsdsd"
+  AndroidKeyaliasName: "misterbet"
   
   ChatID_APK: "-1001521204847"
   ChatID_AAB: "-1001521204847"
